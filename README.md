@@ -1,4 +1,4 @@
-##### Hi there 👋 I'm Ali, a backend developer 💫 I use Node.js, Express, and MongoDB to build cool stuff online. 👀 I'm passionate about the captivating worlds of technology, art, and history. 
+#### Hi there 👋 I'm Ali, a backend developer 💫 I use Node.js, Express, and MongoDB to build cool stuff online. 👀 I'm passionate about the captivating worlds of technology, art, and history. 
 
 I asked my MongoDB if it wanted to join me for a relational dinner. It said, "NoSQL, thanks!" 😒😁
 <!--
