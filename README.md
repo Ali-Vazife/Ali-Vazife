@@ -1,5 +1,6 @@
-### Hi there 👋
+#### Hi there 👋 I'm Ali, a backend developer ✨ weaving wonders with Node.js, Express, MongoDB, and Mongoose. 🚀 JavaScript is my playground. Beyond the code, I'm passionate about exploring the intersections of technology, art, and history. 🎨
 
+**I asked my MongoDB if it wanted to join me for a relational dinner. It said, "NoSQL, thanks!"**
 <!--
 **Ali-Vazife/Ali-Vazife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
