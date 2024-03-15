@@ -1,5 +1,8 @@
-#### Hi there 👋 I'm Ali, a backend developer 💫 I use Node.js, Express, and MongoDB to build cool stuff online. 👀 I'm passionate about the captivating worlds of technology, art, and history. 
+#### Hi there 👋 I'm Ali, a passionate backend developer, who loves creating cool and fun projects. 🚀
+##### In my toolkit, you'll find Node.js and Express for crafting robust backend systems. I'm also well-versed in managing databases, whether it's the structured world of SQL or the flexible realm of NoSQL. Let's build something awesome together!
 
+
+I'm also passionate about the captivating worlds of technology, art, and history👀 
 I asked my MongoDB if it wanted to join me for a relational dinner. It said, "NoSQL, thanks!" 😒😁
 <!--
 **Ali-Vazife/Ali-Vazife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
