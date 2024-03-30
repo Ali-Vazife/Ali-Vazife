@@ -1,8 +1,27 @@
-#### Hi there 👋 I'm Ali, a passionate backend developer, who loves creating cool and fun projects. 🚀
-In my toolkit, you'll find Node.js and Express for crafting robust backend systems. I'm also well-versed in managing databases, whether it's the structured world of SQL or the flexible realm of NoSQL. Let's build something awesome together!
+# Hi there 👋 I'm Ali!
 
+👋 Hi there! I'm Ali, a software engineering enthusiast constantly exploring new frontiers in backend development. From databases to APIs, I'm always diving into the latest tools and techniques to keep things fresh.
+## Skills
 
-##### I'm also passionate about the captivating worlds of technology, art, and history. I asked my MongoDB if it wanted to join me for a relational dinner. It said, "NoSQL, thanks!" 👀😒😁
+- **Backend Development**: Skilled in Node.js and Express.
+- **Database Management**: Experienced with both SQL (PostgreSQL) and NoSQL (MongoDB) databases.
+- **API Development**: Skilled in designing and implementing RESTful APIs.
+- **Authentication and Authorization**: Knowledgeable in implementing authentication and authorization mechanisms such as JWT and OAuth2, ensuring secure access to resources.
+- **Security Best Practices**: Committed to adhering to security best practices and continuous learning in the field.
+- **Docker**: Basic understanding of Docker for containerization and managing development environments.
+## Interests
+
+I'm passionate about:
+
+- **Technology**
+- **Art**
+- **History**
+
+## Fun Fact
+
+I once asked my MongoDB if it wanted to join me for a relational dinner. It said, "NoSQL, thanks!" 👀😒😁
+
+Let's build something awesome together!
 <!--
 **Ali-Vazife/Ali-Vazife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
