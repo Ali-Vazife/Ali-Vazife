@@ -1,7 +1,4 @@
-
-#### It's me, Hi! I enjoy turning imaginative concepts into practical solutions and exploring the endless possibilities that technology offers. Whether it's a simple script or a complex application, I find joy in the process of creation.
----
-"Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
+#### "Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
 <br>
 Let's build something awesome together!
 <!--
