@@ -1,6 +1,4 @@
 #### "Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
-<br>
-Let's build something awesome together!
 <!--
 **Ali-Vazife/Ali-Vazife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
